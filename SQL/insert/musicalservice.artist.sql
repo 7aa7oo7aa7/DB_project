@@ -1,0 +1,15 @@
+insert into musicalservice.artist values (1, 'mfromont0', 'Sri Lanka', null, null, null);
+insert into musicalservice.artist values (2, 'kspeirs1', 'Uganda', '', null, null);
+insert into musicalservice.artist values (3, 'mpeaker2', 'Canada', '', null, null);
+insert into musicalservice.artist values (4, 'gguard3', 'France', '', null, null);
+insert into musicalservice.artist values (5, 'bgiacubbo4', 'China', '', 1988, 'mozilla.org');
+insert into musicalservice.artist values (6, 'aohenecan5', 'South Africa', '', 2003, 'arstechnica.com');
+insert into musicalservice.artist values (7, 'rrodgerson6', 'China', '', null, null);
+insert into musicalservice.artist values (8, 'esparrowhawk7', 'Philippines', '', 2002, 'shop-pro.jp');
+insert into musicalservice.artist values (9, 'ilarwell8', 'United States', null, 1989, 'buzzfeed.com');
+insert into musicalservice.artist values (10, 'pcuffe9', 'Colombia', null, 2007, 'amazon.co.jp');
+insert into musicalservice.artist values (11, 'jzuanellia', null, '', 1992, 'sun.com');
+insert into musicalservice.artist values (12, 'ahoverb', 'Vietnam', '', 1970, 'biglobe.ne.jp');
+insert into musicalservice.artist values (13, 'cpinchingc', 'Iraq', '', 2001, 'businesswire.com');
+insert into musicalservice.artist values (14, 'msmewingsd', 'France', '', null, null);
+insert into musicalservice.artist values (15, 'vfranzolie', 'Russia', null, null, null);
