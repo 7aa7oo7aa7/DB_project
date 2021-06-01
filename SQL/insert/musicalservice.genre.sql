@@ -1,0 +1,12 @@
+insert into musicalservice.genre values (1, 'Malacothrix saxatilis (Nutt.) Torr. & A. Gray var. tenuifolia (Nutt.) A. Gray', 'Electronic', null);
+insert into musicalservice.genre values (2, 'Oonopsis (Nutt.) Greene', 'Pop', null);
+insert into musicalservice.genre values (3, 'Opuntia triacantha (Willd.) Sweet', 'Electronic', null);
+insert into musicalservice.genre values (4, 'Nectandra hihua (Ruiz & Pav.) Rohwer', 'Metal', '');
+insert into musicalservice.genre values (5, 'Deutzia ×magnifica (Lem.) Rehder', 'Rock', '');
+insert into musicalservice.genre values (6, 'Amaranthus thunbergii Moq.', 'Rock', null);
+insert into musicalservice.genre values (7, 'Carex scabrata Schwein.', 'Pop', null);
+insert into musicalservice.genre values (8, 'Leptogium gelatinosum (With.) J.R. Laundon', 'Pop', '');
+insert into musicalservice.genre values (9, 'Papaver glaucum Boiss. & Hausskn.', 'Electronic', null);
+insert into musicalservice.genre values (10, 'Draba yukonensis A.E. Porsild', 'Pop', null);
+insert into musicalservice.genre values (11, 'Draba asterophora Payson var. macrocarpa C.L. Hitchc.', 'Classical', null);
+insert into musicalservice.genre values (12, 'Calochortus flexuosus S. Watson', 'Rock', '');

@@ -1,0 +1,15 @@
+insert into musicalservice.label values (1, 'Bauch and Sons', '1984-09-16 10:06:18', '2814-05-13 09:36:36');
+insert into musicalservice.label values (2, 'Runte-Kertzmann', '1974-01-26 03:45:08', '2957-09-22 13:37:54');
+insert into musicalservice.label values (3, 'Miller Group', '1989-03-06 10:58:04', '2096-12-23 01:02:56');
+insert into musicalservice.label values (4, 'Macejkovic, Kilback and Cummings', '1972-04-29 17:15:32', '2722-12-10 03:22:23');
+insert into musicalservice.label values (5, 'Ledner and Sons', '2019-03-27 21:44:20', '2704-06-30 14:27:53');
+insert into musicalservice.label values (6, 'Goodwin-Adams', '1969-04-24 12:06:06', '2614-11-07 07:12:20');
+insert into musicalservice.label values (7, 'Jakubowski and Sons', '1965-09-20 03:49:03', '1971-01-05 10:40:04');
+insert into musicalservice.label values (8, 'Bernier-Kuvalis', '2008-07-08 16:45:58', '2810-06-08 01:39:19');
+insert into musicalservice.label values (9, 'Langosh and Sons', '1960-12-01 03:40:53', '2768-02-14 11:51:31');
+insert into musicalservice.label values (10, 'Bailey-Toy', '1975-05-30 05:15:44', '2643-05-15 17:23:46');
+insert into musicalservice.label values (11, 'Batz, Mitchell and Hartmann', '2001-02-07 14:50:07', '2267-07-16 09:22:36');
+insert into musicalservice.label values (12, 'Gulgowski, Leuschke and Quitzon', '2015-11-26 00:30:29', '2285-08-08 13:44:40');
+insert into musicalservice.label values (13, 'Hansen, Bruen and Ernser', '2013-12-11 11:54:59', '2185-11-19 13:55:35');
+insert into musicalservice.label values (14, 'Jacobson, Russel and Schoen', '1994-09-13 07:08:23', '2026-08-23 18:01:22');
+insert into musicalservice.label values (15, 'Klocko Inc', '2020-01-15 08:15:41', '2739-12-20 04:46:18');
