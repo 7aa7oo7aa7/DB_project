@@ -1,4 +1,4 @@
-# Концептуальная модель
+# [Концептуальная модель](https://github.com/7aa7oo7aa7/DB_project/blob/main/conceptual_model/conceptual_model.png)
 
 ## Сущности:
 
