@@ -1,4 +1,4 @@
-# Логическая модель
+# [Логическая модель](https://github.com/7aa7oo7aa7/DB_project/blob/main/logical_model/logical_model.png)
 
 
 БД находится в 2НФ. 
